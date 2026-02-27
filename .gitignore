@@ -28,3 +28,7 @@ flame_on-*.tar
 .DS_Store
 
 /plts/
+
+.envrc
+
+.claude/
